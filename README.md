@@ -2,7 +2,7 @@
 
 # 👨‍💻 Developer of Random Things 🇬🇹
 
-*"Stay curious, stay motivated."*
+*"vanitas vanitatum et omnia vanitas"*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justlon&label=Profile%20views&color=0e75b6&style=flat" alt="justlon" />
